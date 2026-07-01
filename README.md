@@ -14,6 +14,6 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+<img width="100%" src="https://imgur.com/RURjcrH" />
 
 </div>
