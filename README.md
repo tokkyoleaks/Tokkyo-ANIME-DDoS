@@ -10,10 +10,10 @@
 
 <br><br>
 
-<img src="./image.png" width="900"/>
+<img src="https://imgur.com/RURjcrH" width="900"/>
 
 <br><br>
 
-<img width="100%" src="https://imgur.com/RURjcrH" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
 
 </div>
