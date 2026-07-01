@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="file:///C:/Users/Administrador/Pictures/Screenshots/Captura%20de%20pantalla%202026-07-01%20023149.png" width="900"/>
+<img src="./image.png" width="900"/>
 
 <br><br>
 
